@@ -9,6 +9,7 @@ This is the companion website of a training course on the use of internet-based 
 
 Go to [**Tutorials**](./categories.html) to access the educational material.
 
+
 ## 2. Course programme
 
 **Preliminary notes:**  Durations of sessions are provided solely for information purposes and are subject to changes based on participants specific needs, expectations and existing capacities. The same holds true for course sequence.
